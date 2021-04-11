@@ -1,0 +1,432 @@
+character,canonical_tag,gender,race
+Harry Potter,Harry Potter,M,white
+Neville Longbottom,Neville Longbottom,M,white
+Rolanda Hooch,Rolanda Hooch,F,white
+Hermione Granger,Hermione Granger,F,white
+Ron Weasley,Ron Weasley,M,white
+Draco Malfoy,Draco Malfoy,M,white
+Professor McGonagall,Minerva McGonagall,F,white
+Albus Dumbledore,Albus Dumbledore,M,white
+Oliver Wood,Oliver Wood,M,white
+Professor Quirrell/Voldemort,Quirinus Quirrell,M,white
+Fred Weasley,Fred Weasley,M,white
+George Weasley,George Weasley,M,white
+Dudley Dursley,Dudley Dursley,M,white
+Aunt Petunia Dursley,Petunia Evans Dursley,F,white
+Uncle Vernon Dursley,Vernon Dursley,M,white
+Argus Filch,Argus Filch,M,white
+Professor Snape,Severus Snape,M,white
+James Potter,James Potter,M,white
+Lily Potter,Lily Evans Potter,F,white
+Lee Jordan,Lee Jordan,M,black
+Garrick Ollivander,Garrick Ollivander,M,white
+Ginny Weasley,Ginny Weasley,F,white
+The Sorting Hat,Sorting Hat (Harry Potter),F,creature
+Susan Bones,Susan Bones,F,white
+Percy Weasley,Percy Weasley,M,white
+Firenze,Firenze (Harry Potter),M,creature
+Seamus Finnigan,Seamus Finnigan,M,white
+Aberforth Dumbledore,Aberforth Dumbledore,M,white
+Abraxas Malfoy,Abraxas Malfoy,M,white
+Adrian Pucey,Adrian Pucey,M,white
+Agnes (Harry Potter),Agnes (Harry Potter),F,white
+Agrippa,Cornelius Agrippa,M,white
+Aidan Lynch,Aidan Lynch,M,white
+"Alastor ""Mad-Eye"" Moody","Alastor ""Mad-Eye"" Moody",M,white
+Albert Runcorn,Albert Runcorn,M,white
+Albus Severus Potter,Albus Severus Potter,M,white
+Alecto Carrow,Alecto Carrow,F,white
+Algie Longbottom,Algie Longbottom,M,white
+Ali Bashir,Ali Bashir,M,middle-eastern
+Alice Longbottom,Alice Longbottom,F,white
+Alicia Spinnet,Alicia Spinnet,F,white
+Alphard Black,Alphard Black,M,white
+Amelia Bones,Amelia Bones,F,white
+Amos Diggory,Amos Diggory,M,white
+Amy Benson,Amy Benson,F,unknown
+Amycus Carrow,Amycus Carrow,M,white
+Andromeda Black Tonks,Andromeda Black Tonks,F,white
+Angelina Johnson,Angelina Johnson,F,black
+Anthony Goldstein,Anthony Goldstein,M,white
+Antonin Dolohov,Antonin Dolohov,M,white
+Arabella Figg,Arabella Figg,F,white
+Aragog (Harry Potter),Aragog (Harry Potter),F,creature
+Archie Aymslowe,Archie Aymslowe,M,white
+Arcturus Black,Arcturus Black,M,white
+Ariana Dumbledore,Ariana Dumbledore,F,white
+Armando Dippet,Armando Dippet,M,white
+Arnold Weasley,Arnold Weasley,M,white
+Arthur Weasley,Arthur Weasley,M,white
+Astoria Greengrass,Astoria Greengrass,F,white
+Audrey Weasley,Audrey Weasley,F,white
+Augusta Longbottom,Augusta Longbottom,F,white
+Augustus Pye,Augustus Pye,M,unknown
+Augustus Rookwood,Augustus Rookwood,M,white
+Aurora Sinistra,Aurora Sinistra,F,black
+Avery Jr.,Avery Jr.,M,white
+Avery Sr.,Avery Sr.,M,white
+Bandon Banshee,Bandon Banshee,F,creature
+Bane,Bane (Harry Potter),M,creature
+Barry Ryan,Barry Ryan,M,white
+Bartemius Crouch Jr.,Bartemius Crouch Jr.,M,white
+Bartemius Crouch Sr.,Bartemius Crouch Sr.,M,white
+Basilisk (Harry Potter),Basilisk (Harry Potter),unknown,creature
+Bathilda Bagshot,Bathilda Bagshot,F,white
+Beedle the Bard (Harry Potter),Beedle the Bard (Harry Potter),M,white
+Bellatrix Black Lestrange,Bellatrix Black Lestrange,F,white
+Benjy Fenwick,Benjy Fenwick,M,white
+Bertha Jorkins,Bertha Jorkins,F,white
+Bertie Bott,Bertie Bott,F,white
+Bill Weasley,Bill Weasley,M,white
+Billy Stubbs,Billy Stubbs,M,white
+Binky,Binky,M,creature
+Black Family (Harry Potter),Black Family (Harry Potter),various,white
+Blaise Zabini,Blaise Zabini,M,black
+Bob Ogden,Bob Ogden,M,unknown
+Bogrod (Harry Potter),Bogrod (Harry Potter),M,creature
+Boris Vulchanov,Boris Vulchanov,M,white
+Bozo,Bozo,M,white
+Buckbeak,Buckbeak,M,creature
+Cadogan,Cadogan,M,white
+Caractacus Burke,Caractacus Burke,M,unknown
+Caradoc Dearborn,Caradoc Dearborn,M,white
+Cassiopeia Black,Cassiopeia Black,F,white
+Cassius Warrington,Cassius Warrington,M,white
+Cedric Diggory,Cedric Diggory,M,white
+Celestina Warbeck,Celestina Warbeck,F,black
+Charity Burbage,Charity Burbage,F,white
+Charlie Weasley,Charlie Weasley,M,white
+Charlus Potter,Charlus Potter,M,white
+Cho Chang,Cho Chang,F,asian
+Chudley Cannons,Chudley Cannons,various,various
+Clara Ivanova,Clara Ivanova,F,white
+Colin Creevey,Colin Creevey,M,white
+Colonel Fubster (Harry Potter),Colonel Fubster (Harry Potter),M,white
+Connolly,Connolly,M,white
+Corban Yaxley,Corban Yaxley,F,white
+Cormac McLaggen,Cormac McLaggen,M,white
+Cornelius Fudge,Cornelius Fudge,M,white
+Crookshanks,Crookshanks,M,creature
+Cuthbert Binns,Cuthbert Binns,M,white
+Cygnus Black,Cygnus Black,M,white
+Cygnus Black III,Cygnus Black III,M,white
+Daphne Greengrass,Daphne Greengrass,F,white
+Dean Thomas,Dean Thomas,M,black
+Death (Harry Potter),Death (Harry Potter),unknown,creature
+Death Eater Characters,Death Eater Characters,various,various
+Dedalus Diggle,Dedalus Diggle,M,white
+Delphi (Harry Potter),Delphi (Harry Potter),F,white
+Demelza Robins,Demelza Robins,F,white
+Dementors (Harry Potter),Dementors (Harry Potter),unknown,creature
+Dennis Bishop,Dennis Bishop,M,unknown
+Dennis Creevey,Dennis Creevey,M,white
+Diary Tom Riddle,Diary Tom Riddle,unknown,creature
+Dilys Derwent,Dilys Derwent,F,unknown
+Dirk Cresswell,Dirk Cresswell,M,white
+Dobby (Harry Potter),Dobby (Harry Potter),M,creature
+Dolores Umbridge,Dolores Umbridge,F,white
+Dominique Weasley,Dominique Weasley,F,white
+Dorcas Meadowes,Dorcas Meadowes,F,black
+Dorea Black Potter,Dorea Black Potter,F,white
+Doris Crockford,Doris Crockford,F,white
+Dragomir Gorgovitch,Dragomir Gorgovitch,M,white
+Druella Rosier Black,Druella Rosier Black,F,white
+Dursley Family,Dursley Family,various,white
+Eileen Prince,Eileen Prince,F,white
+Eldred Worple,Eldred Worple,M,white
+Elizabeth Burke (Harry Potter),Elizabeth Burke (Harry Potter),F,white
+Eloise Midgen,Eloise Midgen,F,white
+Elphias Doge,Elphias Doge,M,white
+Emmeline Vance,Emmeline Vance,F,white
+Enid Smeek,Enid Smeek,F,unknown
+Eric Munch,Eric Munch,M,white
+Ernie Macmillan,Ernie Macmillan,M,white
+Ernie Prang,Ernie Prang,M,white
+Errol (Harry Potter),Errol (Harry Potter),M,creature
+Euan Abercrombie,Euan Abercrombie,M,unknown
+Euphemia Potter,Euphemia Potter,F,white
+Eurig Cadwallader,Eurig Cadwallader,M,unknown
+Evan Rosier,Evan Rosier,M,white
+Fabian Prewett,Fabian Prewett,M,white
+Fang (Harry Potter),Fang (Harry Potter),M,creature
+Fawkes (Harry Potter),Fawkes (Harry Potter),M,creature
+Fenrir Greyback,Fenrir Greyback,M,creature
+Filius Flitwick,Filius Flitwick,M,white
+Firenze (Harry Potter),Firenze (Harry Potter),M,creature
+Fleamont Potter,Fleamont Potter,M,white
+Fleur Delacour,Fleur Delacour,F,white
+Florean Fortescue,Florean Fortescue,M,white
+Fluffy,Fluffy,M,creature
+Frank Bryce,Frank Bryce,M,white
+Frank Longbottom,Frank Longbottom,M,white
+Fred Weasley II,Fred Weasley II,M,white
+Fridwulfa,Fridwulfa,F,creature
+Gabrielle Delacour,Gabrielle Delacour,F,white
+Gamp,Gamp,unknown,unknown
+Gawain Robards,Gawain Robards,M,unknown
+Gellert Grindelwald,Gellert Grindelwald,M,white
+Giant Squid (Harry Potter),Giant Squid (Harry Potter),unknown,creature
+Gibbon,Gibbon,M,unknown
+Gideon Prewett,Gideon Prewett,M,white
+Gilderoy Lockhart,Gilderoy Lockhart,M,white
+Goblins (Harry Potter),Goblins (Harry Potter),various,creature
+Godric Gryffindor,Godric Gryffindor,M,white
+Golgomath,Golgomath,M,creature
+Golpalott,Golpalott,unknown,unknown
+Gornuk,Gornuk,M,creature
+Graham Montague,Graham Montague,M,white
+Grawp (Harry Potter),Grawp (Harry Potter),M,creature
+Gregory Goyle,Gregory Goyle,M,white
+Griphook (Harry Potter),Griphook (Harry Potter),M,creature
+Griselda Marchbanks,Griselda Marchbanks,F,unknown
+Gryffindor Students,Gryffindor Students,various,various
+Gwenog Jones,Gwenog Jones,F,black
+Hannah Abbott,Hannah Abbott,F,white
+Harold Dingle,Harold Dingle,M,white
+Harper,Harper,M,black
+Harry Potter Characters,Harry Potter Characters,various,various
+Hassan Mostafa,Hassan Mostafa,M,middle-eastern
+Hedwig (Harry Potter),Hedwig (Harry Potter),F,creature
+Helena Ravenclaw,Helena Ravenclaw,F,white
+Helga Hufflepuff,Helga Hufflepuff,F,white
+Hepzibah Smith,Hepzibah Smith,F,white
+Herbert Chorley,Herbert Chorley,M,unknown
+Hermes (Harry Potter),Hermes (Harry Potter),M,creature
+Hestia Jones,Hestia Jones,M,white
+Hippogriffs,Hippogriffs,various,creature
+Hogwarts Founders,Hogwarts Founders,various,various
+Hogwarts High Inquisitor,Dolores Umbridge,F,white
+Hogwarts Staff,Hogwarts Staff,various,various
+Hogwarts Students,Hogwarts Students,various,various
+Hokey (Harry Potter),Hokey (Harry Potter),F,creature
+Holyhead Harpies,Holyhead Harpies,F,creature
+Hope Lupin,Hope Lupin,F,white
+Horace Slughorn,Horace Slughorn,M,white
+House-Elves (Harry Potter),House-Elves (Harry Potter),various,creature
+Hufflepuff Students,Hufflepuff Students,various,various
+Hugo Weasley,Hugo Weasley,M,white
+Hungarian Horntail,Hungarian Horntail,various,creature
+Igor Karkaroff,Igor Karkaroff,M,white
+Inquisitorial Squad,Inquisitorial Squad,various,various
+Irma Pince,Irma Pince,F,white
+Ivan Volkov,Ivan Volkov,M,white
+Ivor Dillonsby,Ivor Dillonsby,M,unknown
+Gregorovitch (Harry Potter),Gregorovitch (Harry Potter),M,white
+Jack Sloper,Jack Sloper,M ,white
+James Sirius Potter,James Sirius Potter,M,white
+Jimmy Peakes,Jimmy Peakes,M,white
+John Dawlish,John Dawlish,M,white
+Justin Finch-Fletchley,Justin Finch-Fletchley,M,white
+Karkus,Karkus,M,creature
+Katie Bell,Katie Bell,F,white
+Kendra Dumbledore,Kendra Dumbledore,F,white
+Kettleburn,Silvanus Kettleburn,M,white
+Kevin,Kevin,M,unknown
+Kingsley Shacklebolt,Kingsley Shacklebolt,M,black
+Kirke,Andrew Kirke,M,white
+Knarls,Knarls,various,creature
+Kreacher (Harry Potter),Kreacher (Harry Potter),M,creature
+Lancelot,Lancelot,M,white
+Lavender Brown,Lavender Brown,F,white
+Leanne (Harry Potter),Leanne (Harry Potter),F,white
+Levski,Alexei Levski,M,white
+Lily Evans Potter,Lily Evans Potter,F,white
+Lily Luna Potter,Lily Luna Potter,F,white
+Lisa Turpin,Lisa Turpin,F,white
+Lorcan Scamander,Lorcan Scamander,M,white
+Louis Weasley,Louis Weasley,M,white
+Loxias,Loxias,M,white
+Lucian Bole,Lucian Bole,M,white
+Lucius Malfoy,Lucius Malfoy,M,white
+Lucy Weasley,Lucy Weasley,F,white
+Ludo Bagman,Ludo Bagman,M,white
+Luna Lovegood,Luna Lovegood,F,white
+Lyall Lupin,Lyall Lupin,M,unknown
+Lysander Scamander,Lysander Scamander,M,white
+Madam Malkin,Madam Malkin,F,unknown
+Madam Marsh,Madam Marsh,F,unknown
+Madam Puddifoot,Madam Puddifoot,F,white
+Madam Rosmerta,Madam Rosmerta,F,white
+Mafalda Hopkirk,Mafalda Hopkirk,F,white
+Magical Portraits (Harry Potter),Magical Portraits (Harry Potter),various,various
+Magorian,Magorian,M,creature
+Malcolm Baddock,Malcolm Baddock,M,white
+Malfoy Family,Malfoy Family,various,white
+Mandy Brocklehurst,Mandy Brocklehurst,F,white
+Marauders (Harry Potter),Marauders (Harry Potter),M,white
+Marcus Belby,Marcus Belby,M,white
+Marcus Flint,Marcus Flint,M,white
+Marge Dursley,Marge Dursley,F,white
+Marietta Edgecombe,Marietta Edgecombe,F,white
+Marlene McKinnon,Marlene McKinnon,F,white
+Marvolo Gaunt,Marvolo Gaunt,M,white
+Mary Cattermole,Mary Cattermole,F,white
+Mary Lou Barebone,Mary Lou Barebone,F,white
+Mary Macdonald,Mary Macdonald,F,white
+Merlin (Harry Potter),Merlin (Harry Potter),M,white
+Merope Gaunt,Merope Gaunt,F,white
+Michael Corner,Michael Corner,M,white
+Millicent Bulstrode,Millicent Bulstrode,F,white
+Minerva McGonagall,Minerva McGonagall,F,white
+Miriam Strout,Miriam Strout,F,unknown
+Moaning Myrtle,Moaning Myrtle,F,white
+Molly Weasley,Molly Weasley,F,white
+Molly Weasley II,Molly Weasley II,F,white
+Monica Wilkins,Monica Wilkins,F,white
+Monsieur Delacour,Monsieur Delacour,M,white
+Moran,Moran,F,white
+Morgana,Morgana,F,white
+Mostafa,Hassan Mostafa,M,middle-eastern
+Mr Borgin (Harry Potter),Mr Borgin (Harry Potter),M,white
+Mr Granger (Harry Potter),Mr Granger (Harry Potter),M,white
+Mr Thomas,Mr Thomas,M,black
+Mr Tibbles,Mr Tibbles,M,creature
+Mr. Borgin,Mr Borgin (Harry Potter),M,white
+Mr. Mason,Mr. Mason,M,white
+Mr. Roberts,Mr. Roberts,M,unknown
+Mrs Longbottom,Mrs Longbottom,F,white
+Mrs Norris (Harry Potter),Mrs Norris (Harry Potter),F,creature
+Mrs Zabini (Harry Potter),Mrs Zabini (Harry Potter),F,black
+Mrs. Cole,Mrs. Cole,F,white
+Mrs. Diggory,Mrs. Diggory,F,white
+Mrs. Mason,Mrs. Mason,F,white
+Muggles,Muggles,various,various
+Mulciber Jr. (Harry Potter),Mulciber Jr. (Harry Potter),M,unknown
+Mulciber Sr. (Harry Potter),Mulciber Sr. (Harry Potter),M,unknown
+Mullet,Mullet,F,white
+Mundungus Fletcher,Mundungus Fletcher,M,white
+Muriel (Harry Potter),Muriel (Harry Potter),F,white
+Murtlap,Murtlap,unknown,creature
+Nagini (Harry Potter),Nagini (Harry Potter),F,asian
+Narcissa Black Malfoy,Narcissa Black Malfoy,F,white
+Nargles,Nargles,unknown,creature
+Nearly Headless Nick,Nearly Headless Nick,M,white
+Newt Scamander,Newt Scamander,M,white
+Newt Scamander's Magical Beasts,Newt Scamander's Magical Beasts,various,creature
+Newt Scamander's Mother,Newt Scamander's Mother,F,white
+Nicholas de Mimsy - Porpington,Nearly Headless Nick,M,white
+Nicolas Flamel,Nicolas Flamel,M,white
+Nigel Wolpert,Nigel Wolpert,M,white
+Norbert | Norberta (Harry Potter),Norbert | Norberta (Harry Potter),F,creature
+Nott Sr. (Harry Potter),Nott Sr. (Harry Potter),M,white
+Nymphadora Tonks,Nymphadora Tonks,F,white
+Odo,Odo,M,unknown
+Olive Hornby,Olive Hornby,F,unknown
+Olympe Maxime,Olympe Maxime,F,white
+Order of the Phoenix,Order of the Phoenix,various,various
+Original House-Elf Character(s),Original House-Elf Character(s),various,creature
+Original Muggle Character(s),Original Muggle Character(s),various,various
+Original Percival Graves,Original Percival Graves,M,white
+Orion Black,Orion Black,M,white
+Padma Patil,Padma Patil,F,black
+Pandora Lovegood,Pandora Lovegood,F,white
+Pansy Parkinson,Pansy Parkinson,F,white
+Paracelsus,Paracelsus,M,white
+Parvati Patil,Parvati Patil,F,black
+Patrick,Patrick,M,creature
+Peeves (Harry Potter),Peeves (Harry Potter),M,creature
+Penelope Clearwater,Penelope Clearwater,F,white
+Percival Dumbledore,Percival Dumbledore,M,white
+Peregrine Derrick,Peregrine Derrick,M,unknown
+Perkins,Perkins,M,unknown
+Peter Pettigrew,Peter Pettigrew,M,white
+Petunia Evans Dursley,Petunia Evans Dursley,F,white
+Peverell Family (Harry Potter),Peverell Family (Harry Potter),various,white
+Pierre Bonaccord,Pierre Bonaccord,M,unknown
+Piers Polkiss,Piers Polkiss,M,white
+Pigwidgeon (Harry Potter),Pigwidgeon (Harry Potter),M,creature
+Pius Thicknesse,Pius Thicknesse,M,white
+Pomona Sprout,Pomona Sprout,F,white
+Poppy Pomfrey,Poppy Pomfrey,F,white
+Portrait Albus Dumbledore,Albus Dumbledore,M,white
+Portrait Phineas Nigellus Black,Phineas Nigellus Black,M,white
+Portrait Professor Everard (Harry Potter),Portrait Professor Everard (Harry Potter),M,white
+Portrait Severus Snape,Severus Snape,M,white
+Portrait Walburga Black,Walburga Black,F,white
+Queenie Goldstein,Queenie Goldstein,F,white
+Quigley (Harry Potter),Quigley (Harry Potter),M,white
+Quirinus Quirrell,Quirinus Quirrell,M,white
+Rabastan Lestrange,Rabastan Lestrange,M,white
+Ragnok (Harry Potter),Ragnok (Harry Potter),M,creature
+Ravenclaw Students,Ravenclaw Students,various,various
+Reg Cattermole,Reginald Cattermole,M,white
+Reginald Cattermole,Reginald Cattermole,M,white
+Regulus Black,Regulus Black,M,white
+Remus Lupin,Remus Lupin,M,white
+Ripper (Harry Potter),Ripper (Harry Potter),M,creature
+Rita Skeeter,Rita Skeeter,F,white
+Ritchie Coote,Ritchie Coote,M,black
+Roberts,Roberts,M,unknown
+Rodolphus Lestrange,Rodolphus Lestrange,M,white
+Roger Davies,Roger Davies,M,white
+Rolf Scamander,Rolf Scamander,M,white
+Romilda Vane,Romilda Vane,F,white
+Ronan (Harry Potter),Ronan (Harry Potter),M,creature
+Rose Weasley,Rose Weasley,F,white
+Rowena Ravenclaw,Rowena Ravenclaw,F,white
+Roxanne Weasley,Roxanne Weasley,F,white
+Rubeus Hagrid,Rubeus Hagrid,M,white
+Rufus Scrimgeour,Rufus Scrimgeour,M,white
+Ryan Henry,Ryan Henry,M,unknown
+Salazar Slytherin,Salazar Slytherin,M,white
+Sally-Anne Perks,Sally-Anne Perks,F,white
+Scabior (Harry Potter),Scabior (Harry Potter),M,white
+Scorpius Malfoy,Scorpius Malfoy,M,white
+Selwyn (Harry Potter),Selwyn (Harry Potter),M,unknown
+Septima Vector,Septima Vector,F,white
+Severus Snape,Severus Snape,M,white
+Sybill Trelawney,Sybill Trelawney,F,white
+Silvanus Kettleburn,Silvanus Kettleburn,M,white
+Sirius Black,Sirius Black,M,white
+Slytherin Students,Slytherin Students,various,various
+Sorting Hat (Harry Potter),Sorting Hat (Harry Potter),unknown,creature
+Spellman,Spellman,unknown,unknown
+Stan Shunpike,Stan Shunpike,M,white
+Stewart Ackerley,Stewart Ackerley,M,unknown
+Stubby Boardman,Stubby Boardman,M,unknown
+Sturgis Podmore,Sturgis Podmore,M,white
+Ted Tonks,Ted Tonks,M,white
+Teddy Lupin,Teddy Lupin,M,white
+Terence Higgs,Terence Higgs,M,white
+Terry Boot,Terry Boot,M,white
+The Bloody Baron,The Bloody Baron,M,white
+The Fat Lady (Harry Potter),The Fat Lady (Harry Potter),F,white
+The Grey Lady,The Grey Lady,F,white
+The Three Peverell Brothers (Harry Potter),The Three Peverell Brothers (Harry Potter),M,white
+Theodore Nott,Theodore Nott,M,white
+Thestrals,Thestrals,unknown,creature
+Thorfinn Rowle,Thorfinn Rowle,M,white
+Tiberius Ogden,Tiberius Ogden,M,unknown
+Tina Goldstein,Tina Goldstein,F,white
+Tobias Snape,Tobias Snape,M,white
+Tofty (Harry Potter),Tofty (Harry Potter),M,unknown
+Tom Riddle,Tom Riddle,M,white
+Tom Riddle | Voldemort,Tom Riddle | Voldemort,M,white
+Tom Riddle Sr.,Tom Riddle Sr.,M,white
+Tom the Barman (Harry Potter),Tom the Barman (Harry Potter),M,white
+Tracey Davis (Harry Potter),Tracey Davis (Harry Potter),F,unknown
+Travers (Harry Potter),Travers (Harry Potter),M,white
+Trevor the Toad (Harry Potter),Trevor the Toad (Harry Potter),M,creature
+Troy,Troy,M,white
+Urquhart (Harry Potter),Urquhart (Harry Potter),M,unknown
+Vaisey (Harry Potter),Vaisey (Harry Potter),M,white
+Vasily Dimitrov,Vasily Dimitrov,M,white
+Vernon Dursley,Vernon Dursley,M,white
+Veronica Smethley,Veronica Smethley,F,unknown
+Vicky Frobisher,Vicky Frobisher,F,unknown
+Victoire Weasley,Victoire Weasley,F,white
+Viktor Krum,Viktor Krum,M,white
+Vincent Crabbe,Vincent Crabbe,M,white
+Voldemort (Harry Potter),Voldemort (Harry Potter),M,white
+Walburga Black,Walburga Black,F,white
+Walden Macnair,Walden Macnair,M,white
+Weasley Family,Weasley Family,various,white
+Wilbert Slinkhard,Wilbert Slinkhard,M,unknown
+Wilhelmina Grubbly-Plank,Wilhelmina Grubbly-Plank,F,white
+Wilkie Twycross,Wilkie Twycross,M,white
+Williamson (Harry Potter),Williamson (Harry Potter),M,unknown
+Willy Widdershins,Willy Widdershins,M,unknown
+Winky (Harry Potter),Winky (Harry Potter),F,creature
+Xenophilius Lovegood,Xenophilius Lovegood,M,white
+Zacharias Smith,Zacharias Smith,M,white
+Zonko (Harry Potter),Zonko (Harry Potter),M,unknown

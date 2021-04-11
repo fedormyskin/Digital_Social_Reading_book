@@ -1,0 +1,121 @@
+rowid,best_book_id,original_publication_year,original_title,ratings_count,century,century_rank
+1,2767052,2008,The Hunger Games,5066596,2000,1
+2,3,1997,Harry Potter and the Philosopher's Stone,4972886,1900,1
+3,41865,2005,Twilight,3992661,2000,2
+4,2657,1960,To Kill a Mockingbird,3402363,1900,2
+5,4671,1925,The Great Gatsby,2852789,1900,3
+6,11870085,2012,The Fault in Our Stars,2564656,2000,3
+7,13335037,2011,Divergent,2277881,2000,4
+8,1885,1813,Pride and Prejudice,2239951,1800,1
+9,5907,1937,The Hobbit : or There and Back Again,2228361,1900,4
+10,5107,1951,The Catcher in the Rye,2166748,1900,5
+11,960,2000,Angels & Demons,2126047,2000,5
+12,5470,1949,Nineteen Eighty-Four,2125871,1900,6
+13,48855,1947,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,2082057,1900,7
+14,7613,1945,Animal Farm: A Fairy Story,2035585,1900,8
+15,5,1999,Harry Potter and the Prisoner of Azkaban,2019176,1900,9
+16,6148028,2009,Catching Fire,2015024,2000,6
+17,2429135,2005,Man som hatar kvinnor,1982596,2000,7
+18,15881,1998,Harry Potter and the Chamber of Secrets,1955144,1900,10
+19,77203,2003,The Kite Runner,1917224,2000,8
+20,6,2000,Harry Potter and the Goblet of Fire,1912948,2000,9
+21,7260188,2010,Mockingjay,1897651,2000,10
+22,136251,2007,Harry Potter and the Deathly Hallows,1889600,2000,11
+23,34,1954,The Fellowship of the Ring,1880521,1900,11
+24,2,2003,Harry Potter and the Order of the Phoenix,1875594,2000,12
+25,1,2005,Harry Potter and the Half-Blood Prince,1824878,2000,13
+26,7624,1954,Lord of the Flies,1707618,1900,12
+27,18135,1597,An Excellent conceited Tragedie of Romeo and Juliet,1702565,1500,1
+28,12232938,2002,The Lovely Bones,1685957,2000,14
+29,19288043,2012,Gone Girl,1667157,2000,15
+30,4667024,2009,The Help,1638864,2000,16
+31,100915,1950,"The Lion, the Witch and the Wardrobe",1629301,1900,13
+32,968,2003,The Da Vinci code,1578512,2000,17
+33,890,1937,Of Mice and Men,1548748,1900,14
+34,13496,1996,A Game of Thrones,1487963,1900,15
+35,28187,2005,The Lightning Thief,1458186,2000,18
+36,865,1988,O Alquimista,1455095,1900,16
+37,10818853,2011,Fifty Shades of Grey,1448482,2000,19
+38,929,1997,Memoirs of a Geisha,1439510,1900,17
+39,3636,1993,The Giver,1361154,1900,18
+40,1934,1868,Little Women,1334710,1800,2
+41,18619684,2003,The Time Traveler's Wife,1329358,2000,20
+44,10210,1847,Jane Eyre,1298327,1800,3
+48,4381,1953,Fahrenheit 451,1203278,1900,19
+52,24178,1952,Charlotte's Web,1117176,1900,20
+59,6185,1847,Wuthering Heights,1022322,1800,4
+60,2956,1884,The Adventures of Huckleberry Finn,1018212,1800,5
+68,35031085,1818,"Frankenstein; or, The Modern Prometheus",904978,1800,6
+76,14935,1811,Sense and Sensibility,786130,1800,7
+85,17245,1897,Dracula,711064,1800,8
+89,5297,1890,The Picture of Dorian Gray,694769,1800,9
+91,1953,1859,A Tale of Two Cities,688835,1800,10
+108,7126,1844,Le Comte de Monte-Cristo,611686,1800,11
+109,24583,1876,The Adventures of Tom Sawyer,604629,1800,12
+116,1420,1600,"The Tragicall Historie of Hamlet, Prince of Denmark",588593,1600,1
+123,24280,1862,Les Miserables,567790,1800,13
+125,12296,1850,The Scarlet Letter,566043,1800,14
+143,8852,1606,The Tragedy of Macbeth,532809,1600,2
+151,2623,1860,Great Expectations,517813,1800,15
+157,6969,1815,Emma,509535,1800,16
+168,15823480,1878,Anna Karenina,484268,1800,17
+186,7144,1866,Prestuplenie i nakazanie,456410,1800,18
+188,5326,1843,A Christmas Carol,451602,1800,19
+207,2156,1817,Persuasion,411444,1800,20
+234,1622,1595,A Midsummer Night's Dream,368701,1500,2
+354,12996,1603,"The Tragedy of Othello, The Moor of Venice",261004,1600,3
+473,2932,1719,"The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner",200780,1700,1
+498,7733,1726,Gulliver's Travels,191828,1700,2
+514,12957,1598,Much Ado About Nothing,187879,1500,3
+522,28862,1532,Il Principe,186048,1500,4
+563,19380,1759,Candide,175402,1700,3
+565,1923820,1611,Holy Bible: King James Version,175138,1600,4
+612,3836,1605,Don Quijote de La Mancha,162121,1600,5
+674,12938,1603,The Tragedie of King Lear,149748,1600,6
+736,12985,1623,The Tempest,138618,1600,7
+739,13006,1599,Julius Caesar,138159,1500,5
+755,47021,1593,The Taming of the Shrew,136067,1500,6
+787,24128,1596,The Merchant of Venice,130943,1500,7
+790,1625,1601,"Twelfth Night; or, What You Will",130749,1600,8
+1005,15997,1667,Paradise Lost,106239,1600,9
+1416,29797,1678,The Pilgrim's Progress,78564,1600,10
+1746,42038,1609,Sonnets,65329,1600,11
+1827,42607,1599,As You Like It,62439,1500,8
+2076,16640,1774,Die Leiden des jungen Werthers,55553,1700,4
+2540,569564,1623,The Complete Works,46421,1600,12
+2564,18525,1604,The Tragical History of the Life and Death of Doctor Faustus,45980,1600,13
+2581,18414,1516,"Libellus vere aureus, nec minus salutaris quam festivus, de optimo rei publicae statu deque nova insula Utopia",45678,1500,9
+2611,52309,1791,an introduction and notes,45235,1700,5
+2925,732562,1798,The Rime of the Ancient Mariner,40839,1700,6
+3378,42058,1591,The Tragedy of King Richard the Third,35427,1500,10
+3397,49540,1782,Les Liaisons Dangereuses,35299,1700,7
+3431,38262,1722,The Fortunes and Misfortunes of the Famous Moll Flanders,35041,1700,8
+3512,5206937,1729,A Modest Proposal,34377,1700,9
+3557,37526,1599,The Cronicle History of Henry the fift,33996,1500,11
+3992,171547,1789,Songs of Innocence and of Experience,30337,1700,10
+4111,91953,1651,"Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil",29510,1600,14
+4186,24096,1519,Leonardo's Notebooks,29014,1500,12
+4224,110331,1787,The Federalist,28684,1700,11
+4348,12651,1762,Du contrat social: ou Principes du droit politique,27980,1700,12
+4434,99329,1749,"The History of Tom Jones, a Foundling",27470,1700,13
+4463,498641,1691,The Practice of the Presence of God,27290,1600,15
+4796,867247,1645,Wu Lun Shu  [Go Rin no Sho],25496,1600,16
+4864,52823,1664,"Le Tartuffe, ou L'Imposteur",25226,1600,17
+4991,104837,1606,The Tragedie of Antony and Cleopatra,24624,1600,18
+5295,161744,1776,Common Sense,23205,1700,14
+5547,18288,1781,Kritik der reinen Vernunft,22091,1700,15
+5625,31862,1637,Discours de la Methode suivi de Meditations Metaphysiques,21739,1600,19
+5793,25698,1776,An Inquiry into the Nature and Causes of the Wealth of Nations,21065,1700,16
+6000,44133,1611,The Winter's Tale,20383,1600,20
+6004,89959,1787,The Constitution of the United States of America,20370,1700,17
+6213,233389,1550,"Le Vite de' piu eccellenti pittori, scultori, e architettori da Cimabue insino a' tempi nostri",19665,1500,13
+6338,82356,1594,The Comedy of Errors,19207,1500,14
+6346,13020,1597,The History of Henry the Fourth,19183,1500,15
+6477,72978,1589,Titus Andronicus,18802,1500,16
+7000,93157,1796,The Monk,17449,1700,18
+7016,285500,1776,The Declaration of Independence and The Constitution of the United States,17394,1700,19
+7314,12923,1764,The Castle of Otranto,16686,1700,20
+8402,82397,1595,The tragedie of King Richard the second,14476,1500,17
+8727,765427,1590,The Faerie Queene,13964,1500,18
+8813,609035,1563,Foxe's Book of Martyrs,13847,1500,19
+9507,61794,1554,La vida del Lazarillo de Tormes y sus fortunas y adversidades,12815,1500,20

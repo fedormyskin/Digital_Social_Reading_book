@@ -1,0 +1,101 @@
+rowid,best_book_id,original_publication_year,original_title,ratings_count,century
+1,2767052,2008,The Hunger Games,5066596,2000
+2,3,1997,Harry Potter and the Philosopher's Stone,4972886,1900
+3,41865,2005,Twilight,3992661,2000
+4,2657,1960,To Kill a Mockingbird,3402363,1900
+5,4671,1925,The Great Gatsby,2852789,1900
+6,11870085,2012,The Fault in Our Stars,2564656,2000
+7,13335037,2011,Divergent,2277881,2000
+8,1885,1813,Pride and Prejudice,2239951,1800
+9,5907,1937,The Hobbit : or There and Back Again,2228361,1900
+10,5107,1951,The Catcher in the Rye,2166748,1900
+11,960,2000,Angels & Demons,2126047,2000
+12,5470,1949,Nineteen Eighty-Four,2125871,1900
+13,48855,1947,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,2082057,1900
+14,7613,1945,Animal Farm: A Fairy Story,2035585,1900
+15,5,1999,Harry Potter and the Prisoner of Azkaban,2019176,1900
+16,6148028,2009,Catching Fire,2015024,2000
+17,2429135,2005,Man som hatar kvinnor,1982596,2000
+18,15881,1998,Harry Potter and the Chamber of Secrets,1955144,1900
+19,77203,2003,The Kite Runner,1917224,2000
+20,6,2000,Harry Potter and the Goblet of Fire,1912948,2000
+21,7260188,2010,Mockingjay,1897651,2000
+22,136251,2007,Harry Potter and the Deathly Hallows,1889600,2000
+23,34,1954,The Fellowship of the Ring,1880521,1900
+24,2,2003,Harry Potter and the Order of the Phoenix,1875594,2000
+25,1,2005,Harry Potter and the Half-Blood Prince,1824878,2000
+26,7624,1954,Lord of the Flies,1707618,1900
+27,18135,1597,An Excellent conceited Tragedie of Romeo and Juliet,1702565,1500
+28,12232938,2002,The Lovely Bones,1685957,2000
+29,19288043,2012,Gone Girl,1667157,2000
+30,4667024,2009,The Help,1638864,2000
+31,100915,1950,"The Lion, the Witch and the Wardrobe",1629301,1900
+32,968,2003,The Da Vinci code,1578512,2000
+33,890,1937,Of Mice and Men,1548748,1900
+34,13496,1996,A Game of Thrones,1487963,1900
+35,28187,2005,The Lightning Thief,1458186,2000
+36,865,1988,O Alquimista,1455095,1900
+37,10818853,2011,Fifty Shades of Grey,1448482,2000
+38,929,1997,Memoirs of a Geisha,1439510,1900
+39,3636,1993,The Giver,1361154,1900
+40,1934,1868,Little Women,1334710,1800
+41,18619684,2003,The Time Traveler's Wife,1329358,2000
+42,19063,2005,The Book Thief,1326169,2000
+43,22557272,2015,The Girl on the Train,1301700,2000
+44,10210,1847,Jane Eyre,1298327,1800
+45,256683,2007,City of Bones,1271375,2000
+46,19501,2006,"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",1226472,2000
+47,49041,2006,"New Moon (Twilight, #2)",1212319,2000
+48,4381,1953,Fahrenheit 451,1203278,1900
+49,428263,2007,Eclipse,1189270,2000
+50,113436,2002,Eragon,1150741,2000
+51,43641,2006,Water for Elephants,1124517,2000
+52,24178,1952,Charlotte's Web,1117176,1900
+53,1162543,2008,Breaking Dawn,1116839,2000
+54,5129,1932,Brave New World,1103372,1900
+55,15931,1996,The Notebook,1088680,1900
+56,4214,2001,Life of Pi,1087878,2000
+57,30119,1974,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,1036312,1900
+58,386162,1979,The Hitchhiker's Guide to the Galaxy,1025254,1900
+59,6185,1847,Wuthering Heights,1022322,1800
+60,2956,1884,The Adventures of Huckleberry Finn,1018212,1800
+61,119322,1995,Northern Lights,1016116,1900
+62,22628,1999,The Perks of Being a Wallflower,974361,1900
+63,11735983,2012,Insurgent,961923,2000
+64,37435,2001,The Secret Life of Bees,950440,2000
+65,1618,2003,The Curious Incident of the Dog in the Night-Time,928719,2000
+66,18405,1936,Gone with the Wind (1 vol.),912770,1900
+67,4981,1969,"Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death",909128,1900
+68,35031085,1818,"Frankenstein; or, The Modern Prometheus",904978,1800
+69,10917,2004,My Sister's Keeper,900732,2000
+70,375802,1985,Ender's Game,890836,1900
+71,157993,1943,Le Petit Prince,888952,1900
+72,128029,2007,A Thousand Splendid Suns,884890,2000
+73,99561,2005,Looking for Alaska,853773,2000
+74,11588,1977,The Shining,845784,1900
+75,6186357,2009,The Maze Runner,805362,2000
+76,14935,1811,Sense and Sensibility,786130,1800
+77,1656001,2008,The Host,784707,2000
+78,38709,1998,Holes,784203,1900
+79,227443,1996,Bridget Jones's Diary,767332,1900
+80,15507958,2012,Me Before You,767013,2000
+81,38447,1985,The Handmaid's Tale,737910,1900
+82,370493,1964,The Giving Tree,726368,1900
+83,1617,1958,Un di Velt Hot Geshvign,726071,1900
+84,1381,-720,Odusseia,722508,-800
+85,17245,1897,Dracula,711064,1800
+86,2998,1911,The Secret Garden,706563,1900
+87,9460487,2011,Miss Peregrine's Home for Peculiar Children,702508,2000
+88,231804,1967,The Outsiders,695804,1900
+89,5297,1890,The Picture of Dorian Gray,694769,1800
+90,5139,2003,The Devil Wears Prada,690141,2000
+91,1953,1859,A Tale of Two Cities,688835,1800
+92,1845,1996,Into the Wild,681836,1900
+93,18710190,2013,Allegiant,675140,2000
+94,18131,1962,A Wrinkle in Time,669260,1900
+95,6442769,2008,Paper Towns,668200,2000
+96,7445,2005,The Glass Castle,662744,2000
+97,5060378,2006,Flickan som lekte med elden,662572,2000
+98,21787,1973,The Princess Bride,662378,1900
+99,6424171,1990,Jurassic Park,661472,1900
+100,19543,1963,Where the Wild Things Are,651469,1900
